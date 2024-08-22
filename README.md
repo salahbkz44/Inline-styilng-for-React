@@ -1,2 +1,7 @@
-# Inline-styilng-for-React
-# Inline styilng for React  This repo is part of my web development learning journey. It features examples and exercises on Inline styilng for React.   See how I've applied this concept in various projects.  ## Content - Practical examples - Small applications  Feel free to clone, explore, and contribute!
+# Inline styilng for React  
+This repo is part of my web development learning journey. It features examples and exercises on Inline styilng for React.   
+See how I've applied this concept in various projects.  
+## Content 
+- Practical examples
+- Small applications
+Feel free to clone, explore, and contribute!
